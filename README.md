@@ -10,7 +10,9 @@ Before running the script, make sure you have the following installed:
 
 You can install the required packages using the following command:
 
-`pip install beautifulsoup4 requests tqdm alive-progress`
+ ```python
+ pip install beautifulsoup4 requests tqdm alive-progress
+```
 
 
 # How to use
